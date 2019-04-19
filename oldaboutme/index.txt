@@ -1,0 +1,21 @@
+Cris isn't here right now... Please leave a message.
+
+You've found my home on the internet. I'm starting this blog(March 2016) with a few simple goals; Improve my writing through more long from posts not appropriate for social media, share more of myself through my knowledge and every day experiences, and provide a centralized location to exhibit my current projects.
+
+I'm an Systems Engineer for Unroll.Me. While at work my primary focus is the design and implementation of distributed systems, continually optimizing databases for ever increasing load, and working with the ever changing AWS cloud architecture. All for the goal of helping you be less distracted and to enjoy your inbox more.
+
+Outside the office I enjoy a range of activities. I consider myself and avid amateur photographer, I like exploring the edges of photography and constantly playing with new techniques. Additionally I'm a huge fan of most things nerdy and you can often find me at my favorite watering hole, The Way Station (a self proclaimed nerdvana) enjoying a drink and discussing the finer points of various fandoms.
+
+I'll try to update this as i think of more worth sharing.
+
+
+  ## below this line is other things
+It all started on a dark and stormy day in November...
+
+I guess you can say I was destined to become an engineer — I exhibited this mindset early. At the age of 5, I would bore my family explaining how rides worked rather than just enjoying the amusement of them. Around 10, I graduated taking apart and fixing broken electronics like VCR's, and stereos, and scaring the owners of them in the process. At age 12 a teacher at school showed me how to program using BASIC, and I was hooked! So It comes as no surprise now that I ended up doing it professionally as an adult. 
+
+As a software engineer, I really enjoy working for great companies in the startup world. I've worked at Unroll.me, Slice, and am now I'm at Flipboard. Through the years at these companies my breadth of knowledge has grown exponentially and at this point would consider myself an expert in developing cloud-centric distributed systems. I'm always open to discussing what systems like this look like in more depth so if this interests you reach out to me! 
+
+No one is defined just by their work though! 
+
+Outside of work, I walk miles and miles a day, I consider myself an avid photographer, a fan of consuming all forms of science-fiction, and am now exploring the world of writing a novel. I enjoy exploring the edges of photography and always playing with new techniques, styles, and subjects. You can view the fruit of that labor in the photography section of this site. I'm continually looking for other artists and models to collaborate with for photography shoots, so If you like what you see here, please, reach out to me!
