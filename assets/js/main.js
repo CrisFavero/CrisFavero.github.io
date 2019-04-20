@@ -45,7 +45,7 @@ $("#nav ul li a[href^='#']").on('click', function(e) {
 
 $("#downArrow").click(function() {
     $('html,body').animate({
-        scrollTop: $("#recent_photos").offset().top},
+        scrollTop: $("#who_am_i").offset().top},
         'slow');
 });
 
